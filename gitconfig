@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = franzke.niklas@gmail.com
+	name = Niklas Franzke
